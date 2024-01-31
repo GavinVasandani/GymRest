@@ -18,9 +18,6 @@ To run GymRest:
 ## License
 This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
 
-## Contact
-For any queries or further information, please contact us at [email@example.com](mailto:email@example.com).
-
 ---
 
 © 2024 GymRest. All Rights Reserved.
